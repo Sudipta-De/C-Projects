@@ -103,7 +103,6 @@ The main purpose of this repository is to document my progress in **C programmin
 **Sudipta De**
 
 * GitHub: [Sudipta-De](https://github.com/Sudipta-De)
-* LinkedIn: [sudipta-de](https://www.linkedin.com/in/sudipta-de-951baa425/)
 
 ---
 
